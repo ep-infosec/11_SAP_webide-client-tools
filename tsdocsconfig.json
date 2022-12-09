@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": false,
+    "target": "ES6",
+    "sourceMap": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "files": ["api.d.ts"]
+}
